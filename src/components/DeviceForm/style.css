@@ -1,0 +1,13 @@
+.deviceForm{
+    width: 100%;
+    max-width: 800px;
+    border: 1px solid whitesmoke;
+    padding: 40px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    background: #fff;
+    align-items: center;
+}
