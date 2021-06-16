@@ -1,6 +1,7 @@
 .deviceForm{
     width: 100%;
-    max-width: 800px;
+    max-width: 1200px;
+    min-height: 500px;
     border: 1px solid whitesmoke;
     padding: 40px;
     border-radius: 15px;
@@ -10,4 +11,16 @@
     -o-border-radius: 15px;
     background: #fff;
     align-items: center;
+    position: relative;
+    box-shadow: 0px 10px 20px #ffffff2e;
+}
+.deviceForm__image{
+    position: relative;
+}
+.deviceForm__inputs{
+    position: relative;
+    z-index: 0;
+}
+.deviceForm__halfGrid{
+    display: flex;
 }

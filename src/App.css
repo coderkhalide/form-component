@@ -5,8 +5,8 @@ img {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: rgb(247, 247, 247);
     min-height: 100vh;
+    background-image: radial-gradient(circle at center center, rgb(71, 71, 71),rgb(8, 8, 8));
 }
 .deviceForm__title{
     font-size: 35px;
